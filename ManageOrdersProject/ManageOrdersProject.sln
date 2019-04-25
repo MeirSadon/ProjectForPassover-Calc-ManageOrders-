@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageOrdersProject", "ManageOrdersProject\ManageOrdersProject.csproj", "{6203F992-6F2A-4E05-B976-EBD51F699263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw1704 ProjectCalc", "..\hw1704 ProjectCalc\hw1704 ProjectCalc\hw1704 ProjectCalc.csproj", "{1C71CC53-7E96-4968-9492-002AB3B82422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6203F992-6F2A-4E05-B976-EBD51F699263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6203F992-6F2A-4E05-B976-EBD51F699263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6203F992-6F2A-4E05-B976-EBD51F699263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6203F992-6F2A-4E05-B976-EBD51F699263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C71CC53-7E96-4968-9492-002AB3B82422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C71CC53-7E96-4968-9492-002AB3B82422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C71CC53-7E96-4968-9492-002AB3B82422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C71CC53-7E96-4968-9492-002AB3B82422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD9B11C-B01A-4A6F-B205-37EFA5B448F8}
+	EndGlobalSection
+EndGlobal
